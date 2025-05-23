@@ -16,12 +16,7 @@
 *          стандартное отклонение).
 */
 
-#include <iostream> 
-#include <fstream>
-#include <vector> 
-#include <string> 
-#include <cstdlib> // Для функций C, таких как exit                                                      
-#include "mylib.h"
+
  
 /**
 * @brief Выводит справочную информацию о программе
