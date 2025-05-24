@@ -27,7 +27,7 @@
 * @brief Выводит справочную информацию о программе
 */
 
-void print_help() {
+void print_help() {f
     std::cout << "Использование: program --input <файл> --operation <операция>\n"; 
     std::cout << "Операции:\n";
     std::cout << "  mean                Вычисление среднего\n"; 
