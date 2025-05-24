@@ -31,7 +31,7 @@ void print_help() {
     std::cout << "Использование: program --input <файл> --operation <операция>\n"; 
     std::cout << "Операции:\n";
     std::cout << "  mean                Вычисление среднего\n"; 
-    std::cout << "  variance     а       Вычисление дисперсии\n"; 
+    std::cout << "  variance            Вычисление дисперсии\n"; 
     std::cout << "  standard_deviation  Вычисление среднеквадратичного отклонения\n"; 
     std::cout << "Ключ --help для отображения этой справки.\n"; 
 }
